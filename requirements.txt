@@ -1,0 +1,5 @@
+tensorflow==2.0.0
+pandas==1.2.4
+sklearn==0.24.2
+python==3.8.6
+re==0.2.24
